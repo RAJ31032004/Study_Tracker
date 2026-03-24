@@ -93,7 +93,7 @@ Date,Subject,Duration,Description
 ### Step 1: Compile
 
 ```
-javac program902.java
+javac ProjectCode.java
 ```
 
 ### Step 2: Run
