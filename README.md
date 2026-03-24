@@ -77,7 +77,7 @@ Date | Subject | Duration | Description
 * Saves all study logs in:
 
 ```
-MarvellousStudyTracker.csv
+StudyTracker.csv
 ```
 
 * CSV Format:
@@ -99,7 +99,7 @@ javac ProjectCode.java
 ### Step 2: Run
 
 ```
-java ProjectCode
+java Program902
 ```
 
 ---
