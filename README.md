@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Marvellous Study Tracker is a simple **Java console-based application** that helps users track their daily study activities. It allows users to log study sessions, view logs, generate summaries, and export data to a CSV file.
+Study Tracker is a simple **Java console-based application** that helps users track their daily study activities. It allows users to log study sessions, view logs, generate summaries, and export data to a CSV file.
 
 ---
 
