@@ -99,7 +99,7 @@ javac ProjectCode.java
 ### Step 2: Run
 
 ```
-java program902
+java ProjectCode
 ```
 
 ---
