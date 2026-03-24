@@ -1,4 +1,4 @@
-# 📘 Marvellous Study Tracker
+# 📘 Study Tracker
 
 ## 📌 Overview
 
